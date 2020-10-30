@@ -5,9 +5,9 @@
     xmlns:se="http://www.opengis.net/se" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <NamedLayer>
-        <se:Name>areas_de_aguas_continentales</se:Name>
+        <se:Name>espejo_agua_perenne</se:Name>
         <UserStyle>
-            <se:Name>areas_aguas_continentales_capa_base</se:Name>
+            <se:Name>espejo_agua_perenne</se:Name>
             <se:FeatureTypeStyle>
                 <se:Rule>
                     <se:Name>areas_aguas_continentales_capa_base</se:Name>
@@ -15,12 +15,7 @@
                         <se:Title>area_corriente_agua_5000000</se:Title>
                     </se:Description>
                     <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>1</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
                     </ogc:Filter>
-                    <se:MaxScaleDenominator>5000000</se:MaxScaleDenominator>
                     <se:PolygonSymbolizer>
                         <se:Fill>
                             <se:SvgParameter name="fill">#c8e8f8</se:SvgParameter>
