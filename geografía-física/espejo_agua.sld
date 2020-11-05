@@ -5,7 +5,7 @@
     xmlns:se="http://www.opengis.net/se" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <NamedLayer>
-        <se:Name>espejo_agua_perenne</se:Name>
+        <se:Name>espejo_agua</se:Name>
         <UserStyle>
             <se:Name>espejo_agua_perenne</se:Name>
             <se:FeatureTypeStyle>
