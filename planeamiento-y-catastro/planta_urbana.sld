@@ -16,21 +16,11 @@
                         <se:Title>Ejido Urbano, Planta Urbana, Otros asentamientos</se:Title>
                     </se:Description>
                     <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
-                        <ogc:Or>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>3</ogc:Literal>
+                                                <ogc:PropertyIsEqualTo>
+                            <ogc:PropertyName>objeto</ogc:PropertyName>
+                            <ogc:Literal>Planta Urbana</ogc:Literal>
                         </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>2</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>1</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        </ogc:Or>
-                    </ogc:Filter>
+                                            </ogc:Filter>
                     <se:MinScaleDenominator>100001</se:MinScaleDenominator>
                     <se:MaxScaleDenominator>3000000</se:MaxScaleDenominator>
                     <se:PolygonSymbolizer>
@@ -52,20 +42,10 @@
                         <se:Title>Ejido Urbano, Planta Urbana, Otros asentamientos</se:Title>
                     </se:Description>
                     <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
-                        <ogc:Or>
                         <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>3</ogc:Literal>
+                            <ogc:PropertyName>objeto</ogc:PropertyName>
+                            <ogc:Literal>Planta Urbana</ogc:Literal>
                         </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>2</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>1</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        </ogc:Or>
                     </ogc:Filter>
                     <se:MinScaleDenominator>24001</se:MinScaleDenominator>
                     <se:MaxScaleDenominator>100000</se:MaxScaleDenominator>
@@ -88,20 +68,10 @@
                         <se:Title>Ejido Urbano, Planta Urbana, Otros asentamientos</se:Title>
                     </se:Description>
                     <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
-                        <ogc:Or>
                         <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>3</ogc:Literal>
+                            <ogc:PropertyName>objeto</ogc:PropertyName>
+                            <ogc:Literal>Planta Urbana</ogc:Literal>
                         </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>2</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        <ogc:PropertyIsEqualTo>
-                            <ogc:PropertyName>entidad</ogc:PropertyName>
-                            <ogc:Literal>1</ogc:Literal>
-                        </ogc:PropertyIsEqualTo>
-                        </ogc:Or>
                     </ogc:Filter>
                     <se:MinScaleDenominator>0</se:MinScaleDenominator>
                     <se:MaxScaleDenominator>24000</se:MaxScaleDenominator>
