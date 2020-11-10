@@ -51,7 +51,7 @@
                     <se:MaxScaleDenominator>25000</se:MaxScaleDenominator>
                     <se:TextSymbolizer>
                         <se:Label>
-                            <ogc:PropertyName>fna</ogc:PropertyName>
+                            <ogc:PropertyName>termino_especifico</ogc:PropertyName>
                         </se:Label>
                         <se:Font>
                             <se:SvgParameter name="font-family">Arial</se:SvgParameter>
