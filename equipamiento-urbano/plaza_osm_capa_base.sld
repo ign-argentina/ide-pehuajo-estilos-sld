@@ -10,12 +10,11 @@
             <se:Name>plaza_osm_capa_base</se:Name>
             <se:FeatureTypeStyle>
                 <se:Rule>
-                    <se:Name>Plazas OSM</se:Name>
+                    <se:Name>Plazas</se:Name>
                     <se:Description>
-                        <se:Title>Plazas OSM</se:Title>
+                        <se:Title>Plazas</se:Title>
                     </se:Description>
-                    <se:MaxScaleDenominator>100000</se:MaxScaleDenominator>
-                    <se:PolygonSymbolizer>
+                                        <se:PolygonSymbolizer>
                         <se:Fill>
                             <se:SvgParameter name="fill">#adf294</se:SvgParameter>
                         </se:Fill>
