@@ -12,7 +12,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Fecha</ogc:PropertyName>
+              <ogc:PropertyName>fecha</ogc:PropertyName>
               <ogc:Literal>Anterior a 2008</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -40,7 +40,7 @@
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>Fecha</ogc:PropertyName>
+              <ogc:PropertyName>fecha</ogc:PropertyName>
               <ogc:Literal>Posterior a 2008</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
