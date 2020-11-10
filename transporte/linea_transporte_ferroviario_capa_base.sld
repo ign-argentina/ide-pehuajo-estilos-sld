@@ -15,8 +15,7 @@
                     <se:Description>
                         <se:Title>Línea ferroviario</se:Title>
                     </se:Description>
-                    <se:MaxScaleDenominator>200000</se:MaxScaleDenominator>
-                    <se:LineSymbolizer>
+                                        <se:LineSymbolizer>
                         <se:Stroke>
                             <se:SvgParameter name="stroke">#474040</se:SvgParameter>
                             <se:SvgParameter name="stroke-width">1</se:SvgParameter>
