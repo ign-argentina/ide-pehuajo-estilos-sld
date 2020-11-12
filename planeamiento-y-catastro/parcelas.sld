@@ -8,12 +8,8 @@
         <se:Rule>
           <se:Name>Single symbol</se:Name>
           <se:PolygonSymbolizer>
-            <se:Fill>
-              <se:SvgParameter name="fill">#e15989</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0</se:SvgParameter>
-            </se:Fill>
             <se:Stroke>
-              <se:SvgParameter name="stroke">#232323</se:SvgParameter>
+              <se:SvgParameter name="stroke">#e15989</se:SvgParameter>
               <se:SvgParameter name="stroke-width">2</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
             </se:Stroke>
