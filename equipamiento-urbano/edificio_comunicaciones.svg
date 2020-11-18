@@ -3,6 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" cx="12.001" cy="10.25" r="9"/>
 <g id="Capa_1_1_" display="none">
 	<circle display="inline" fill="#9A7D22" cx="12" cy="10.4" r="10"/>
 </g>
@@ -17,11 +18,11 @@
 <path fill="none" stroke="#B5343A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 	M10.35,6.506c1.387-1.346,3.603-1.312,4.949,0.075c1.346,1.387,1.313,3.604-0.074,4.949"/>
 <path fill="none" stroke="#B5343A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-	M10.395,8.583c0.792-0.769,2.059-0.75,2.828,0.043c0.77,0.793,0.75,2.059-0.043,2.828"/>
+	M10.395,8.583c0.792-0.769,2.059-0.75,2.828,0.043c0.771,0.793,0.75,2.059-0.043,2.828"/>
 <path fill="none" stroke="#B5343A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-	M8.759,5.273c0.064-0.068,0.13-0.136,0.198-0.202c2.18-2.115,5.662-2.063,7.777,0.117c2.115,2.18,2.062,5.663-0.118,7.778"/>
+	M8.759,5.273c0.064-0.068,0.13-0.136,0.198-0.202c2.18-2.115,5.662-2.063,7.777,0.117s2.062,5.663-0.118,7.778"/>
 <circle fill="#B5343A" cx="9.997" cy="11.595" r="1"/>
-<line fill="none" x1="9.997" y1="11.595" x2="8.35" y2="16.515"/>
-<line fill="none" stroke="#B5343A" stroke-miterlimit="10" x1="9.997" y1="11.595" x2="11.522" y2="16.515"/>
-<line fill="none" stroke="#B5343A" stroke-miterlimit="10" x1="9.76" y1="11.595" x2="8.234" y2="16.515"/>
+<line fill="none" x1="9.997" y1="11.595" x2="8.35" y2="16.516"/>
+<line fill="none" stroke="#B5343A" stroke-miterlimit="10" x1="9.997" y1="11.595" x2="11.522" y2="16.516"/>
+<line fill="none" stroke="#B5343A" stroke-miterlimit="10" x1="9.76" y1="11.595" x2="8.234" y2="16.516"/>
 </svg>
