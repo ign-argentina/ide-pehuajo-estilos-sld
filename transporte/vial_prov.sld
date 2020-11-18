@@ -9,7 +9,7 @@
           <se:Name>RP</se:Name>
           <se:LineSymbolizer>
             <se:Stroke>
-              <se:SvgParameter name="stroke">#994f1a</se:SvgParameter>
+              <se:SvgParameter name="stroke">#232323</se:SvgParameter>
               <se:SvgParameter name="stroke-width">1.7</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
