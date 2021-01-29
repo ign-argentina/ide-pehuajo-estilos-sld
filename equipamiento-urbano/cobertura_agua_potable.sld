@@ -12,7 +12,7 @@
               <se:SvgParameter name="stroke">#000000</se:SvgParameter>
               <se:SvgParameter name="stroke-width">3</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
-              <se:SvgParameter name="stroke-linecap">round</se:SvgParameter>
+              <se:SvgParameter name="stroke-linecap">butt</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
           <se:LineSymbolizer>
